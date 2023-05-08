@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eleanor</h1>
 
-- 🌱 I’m currently learning **react, react-redux, redux-toolkit, typescript, python**
+- 🌱 I’m currently learning **react, react-redux, redux-toolkit, tailwindcss, typescript, python**
 
 - 💬 Ask me about **javascript, react**
 
