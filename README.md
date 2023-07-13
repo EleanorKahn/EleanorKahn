@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eleanor</h1>
 
-- 🌱 I’m currently learning **react, UX design, react redux toolkit, reducers, WordPress CMS, php, typescript**
+- 🌱 I’m currently learning **react, hiding API keys with lamda functions, UX design, reducers, WordPress CMS, php, typescript**
 
 - 💬 Ask me about **javascript, react**
 
