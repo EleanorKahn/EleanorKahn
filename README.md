@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **react reducers, the power of proxy servers and lambda functions, UX design, algorithms, WordPress CMS, typescript**
 
-- 💬 Ask me about **javascript, react**
+- 💬 Ask me about **css, javascript, react**
 
 - 📫 How to reach me **eleanor.c.kahn@gmail.com**
 
